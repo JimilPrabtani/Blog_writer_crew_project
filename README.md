@@ -2,10 +2,11 @@
 
 # Build a Blog Writing Crew with CrewAI
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/ai-crewai-blog-writing-crew)
+**Project Link:** [View Project](https://learn.nextwork.org/affectionate_green_mysterious_penguin/docs/ai-crewai-blog-writing-crew?track=high)
 
 **Author:** Jimil Prabtani  
 **Email:** jimilprabtani0816@gmail.com
+**Website:** [jimilprabtani.me](https://www.jimilprabtani.me)
 
 ---
 
